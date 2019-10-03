@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/HusseyCoding_AjaxCartPopup",
+    "name": "OpenMageModuleFostering\/HusseyCoding_AjaxCartPopup",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
-    "description": "Gives you both ajax add/remove cart functionality and a rollover mini cart popup.",
+    "description": "Gives you both ajax add\/remove cart functionality and a rollover mini cart popup.",
     "authors": [
-    {
-        "name": "Hussey Coding",
-        "email": "info@husseycoding.co.uk"
-    }
-],
+        {
+            "name": "Hussey Coding",
+            "email": "info@husseycoding.co.uk"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
